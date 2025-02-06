@@ -17,7 +17,7 @@ import androidx.lifecycle.viewmodel.compose.viewModel
 import com.vector.weatherapp.data.models.WeatherResponse
 import com.vector.weatherapp.ui.viewmodel.WeatherState
 import com.vector.weatherapp.ui.viewmodel.WeatherViewModel
-
+//Main activity
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
